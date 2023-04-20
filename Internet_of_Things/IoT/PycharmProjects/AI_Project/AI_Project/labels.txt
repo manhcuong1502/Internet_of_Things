@@ -1,0 +1,3 @@
+0 Maskable
+1 Unmaskable
+2 Background
